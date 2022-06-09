@@ -1,0 +1,26 @@
+/*comentario en sas y css*/
+.titulomi-style {
+  margin: 0px 0px 0px 0px;
+  display: flex;
+  justify-content: center;
+  font-family: Brittany;
+  font-size: xxx-large; }
+  .titulomi-style .titulo-ubicacion {
+    margin: 0px 0px 0px 0px; }
+
+.info-mabe {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 3rem; }
+
+.mabe-image {
+  height: 23rem;
+  margin-left: 1rem; }
+
+.texto-mi {
+  margin: 0px 0px 0px 50px;
+  display: table; }
+  .texto-mi .texto-mi-style {
+    font-weight: bold;
+    display: table-cell;
+    vertical-align: middle; }
